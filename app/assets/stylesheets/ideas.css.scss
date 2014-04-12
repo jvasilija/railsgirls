@@ -1,0 +1,39 @@
+// Place all the styles related to the ideas controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+h1.ideas-heading {
+	font-size: 70px;
+	font-family: Ariel;
+	color: blue;
+	text-transform: uppercase;
+	margin: 50px;
+}
+span.name-styles {
+	color: red;
+	font-weight: bold;
+
+}
+span.description-styles{
+	font-weight: bold;
+	color: blue;
+}
+span.namestyle{
+	color: green;
+	font-weight: bold;
+}
+.imageborder img{
+	border: 2px solid black;
+}
+.sizeimage img{
+	width: 100px !important;
+	height: 150px !important;
+
+}
+.descriptionstyle{
+	color: blue;
+	font-weight: bold;
+}
+.imagesize img{
+	width: 200px !important;
+	height: 250px !important; 
+}
